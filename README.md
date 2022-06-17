@@ -1,6 +1,6 @@
 ## Welcome to Accessories project. :)
 
-`Intro`
+Need to know about the `project`.
 
 ```
 Test project to learn git & github
