@@ -2,4 +2,4 @@
 
 Need to know about the `project`.
 
-[logo]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
+[id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
