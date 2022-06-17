@@ -2,6 +2,4 @@
 
 Need to know about the `project`.
 
-```
-Test project to learn git & github
-```
+[logo]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
