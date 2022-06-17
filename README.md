@@ -2,4 +2,4 @@
 
 Need to know about the `project`.
 
-[id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
+![Minion](https://octodex.github.com/images/dojocat.jpg)
